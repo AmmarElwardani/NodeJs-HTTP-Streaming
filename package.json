@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "multiparty": "^4.2.3",
     "nodemon": "^2.0.19"
   }
 }
